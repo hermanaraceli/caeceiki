@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roodohlee.simbatango.com/sitemap.xml
